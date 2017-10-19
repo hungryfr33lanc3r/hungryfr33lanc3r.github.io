@@ -1,5 +1,7 @@
 body  {
     font-family: Bangers;
+    text-align: center;
+    margin: auto;
 /*
     background: url("https://images.unsplash.com/photo-1493087670264-2f7f5844b402?dpr=1&auto=format&fit=crop&w=749&q=60&cs=tinysrgb") no-repeat center center fixed;
     background-size: cover;
@@ -8,3 +10,8 @@ body  {
         
         
 }
+
+/*
+nav  {
+    text-align: center;
+}*/
